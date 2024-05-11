@@ -1,11 +1,10 @@
 # facial_recognition
-The aim of our facial recognition project is to be implemented in an employee check-in system to enhance security and streamline the check-in process. 
-Using facial recognition, employees can simply scan their faces at checkpoints to gain access/authorization to specific areas of the building. Thus, facial recognition provides a secure, convenient, and efficient solution for employees, improving workplace efficiency. 
+The objective of our facial recognition initiative is to be integrated into an employee check-in system to boost security measures and streamline the check-in procedure. By utilizing facial recognition technology, employees can effortlessly scan their faces at designated checkpoints to obtain access or authorization to specific areas within the premises. 
 
-This approach eliminates the need for physical keys and reduces the risk of unauthorized access.
+This solution offers a secure, convenient, and efficient alternative for employees, thereby enhancing operational efficiency within the workplace. It eliminates the requirement for physical keys, thereby reducing the likelihood of unauthorized access. 
 
-The procedure commences with the loading and encoding of employee images from a designated file. In the event that an employee’s image is absent, there is an option to add it, or conversely, remove it if the employee has departed from the company.
+The process initiates with the loading and encoding of employee images from a specified file. If an employee's image is not present, there is a provision to add it, or if necessary, remove it in case the employee has exited the organization.
 
-Subsequently, the system is designed to detect the face, pinpoint its location, and assign the name of the individual. This process is accompanied by the calculation of a confidence level and a blur score.
+The system is engineered to detect the face, ascertain its location, and assign the corresponding name of the individual. This procedure is supplemented by the computation of a confidence level and a blur score.
 
-Upon successful identification of the person, a green LED light is activated, signaling “Access Granted”. In contrast, if the identification is unsuccessful, a red LED light is illuminated, indicating “Access Denied”. This approach ensures a high level of security and efficiency in access control.
+Upon successful identification of the individual, a green LED light is triggered, displaying the message "Access Granted". Conversely, if the identification process fails, a red LED light is activated, displaying the message "Access Denied". This approach ensures a superior level of security and efficiency in access control.

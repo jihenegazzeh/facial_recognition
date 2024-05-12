@@ -10,7 +10,11 @@ The system is engineered to detect the face, ascertain its location, and assign 
 Upon successful identification of the individual, a green LED light is triggered, displaying the message "Access Granted". Conversely, if the identification process fails, a red LED light is activated, displaying the message "Access Denied". This approach ensures a superior level of security and efficiency in access control.
 
 Contributors: 
+
   *Jihene Gazzeh
+  
   *Farah Jaouadi
+  
   *Jaouher ElMani
+  
   *Nour Elloumi

@@ -8,3 +8,9 @@ The process initiates with the loading and encoding of employee images from a sp
 The system is engineered to detect the face, ascertain its location, and assign the corresponding name of the individual. This procedure is supplemented by the computation of a confidence level and a blur score.
 
 Upon successful identification of the individual, a green LED light is triggered, displaying the message "Access Granted". Conversely, if the identification process fails, a red LED light is activated, displaying the message "Access Denied". This approach ensures a superior level of security and efficiency in access control.
+
+Contributors: 
+  *Jihene Gazzeh
+  *Farah Jaouadi
+  *Jaouher ElMani
+  *Nour Elloumi
